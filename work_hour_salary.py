@@ -200,10 +200,10 @@ sep_okt = Month(
     )
 )
 
-# okt_nov = Month(
-#     year=2026,
-#     month="Oktober – november",
-#     WorkDays=(
-#         []
-#     )
-# )
+okt_nov = Month(
+    year=2026,
+    month="Oktober – november",
+    WorkDays=(
+        [2, 1100, 1130, 0],
+    )
+)
