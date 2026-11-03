@@ -205,5 +205,6 @@ okt_nov = Month(
     month="Oktober – november",
     WorkDays=(
         [2, 1100, 1130, 0],
+        [3, 1030, 2110, 0]
     )
 )
